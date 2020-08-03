@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <head>
+    <metadata>
+      <ttm:title>TRWay-Intro.srt</ttm:title>
+      <ttm:desc></ttm:desc>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:color="#ffffffff" tts:fontFamily="Arial" tts:fontSize="100%" tts:textAlign="center"/>
+    </styling>
+    <layout>
+      <region xml:id="topCenter" tts:origin="10% 10%" tts:extent="80% 40%" tts:displayAlign="before"/>
+      <region xml:id="bottomCenter" tts:origin="10% 50%" tts:extent="80% 40%" tts:displayAlign="after"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p begin="00:00:08.627" end="00:00:11.127" region="" style="">
+        <span>What I’m hearing</span>
+        <br/>
+        <span>repeatedly from our customers</span>
+      </p>
+      <p begin="00:00:11.128" end="00:00:14.932" region="" style="">
+        <span>is that they’re looking for fewer,</span>
+        <br/>
+        <span>more strategic relationships</span>
+      </p>
+      <p begin="00:00:15.779" end="00:00:18.465" region="" style="">
+        <span>with their trusted partners</span>
+        <br/>
+        <span>around the world.</span>
+      </p>
+      <p begin="00:00:18.895" end="00:00:21.903" region="" style="">
+        <span>The incredible thing</span>
+        <br/>
+        <span>about our organization,</span>
+      </p>
+      <p begin="00:00:22.241" end="00:00:26.096" region="" style="">
+        <span>our unmatched breadth and depth</span>
+        <br/>
+        <span>puts us in a position</span>
+      </p>
+      <p begin="00:00:26.097" end="00:00:29.002" region="" style="">
+        <span>that we can be</span>
+        <br/>
+        <span>one of those key strategic partners.</span>
+      </p>
+      <p begin="00:00:29.136" end="00:00:32.101" region="" style="">
+        <span>Having a more</span>
+        <br/>
+        <span>coordinated approach to market</span>
+      </p>
+      <p begin="00:00:32.102" end="00:00:35.534" region="" style="">
+        <span>allows us to put our best foot</span>
+        <br/>
+        <span>forward to our customers.</span>
+      </p>
+      <p begin="00:00:35.837" end="00:00:40.333" region="" style="">
+        <span>It allows us to deliver</span>
+        <br/>
+        <span>unparalleled customer experience.</span>
+      </p>
+      <p begin="00:00:40.505" end="00:00:44.803" region="" style="">
+        <span>No other competitor has the assets,</span>
+        <br/>
+        <span>the technology or the people,</span>
+      </p>
+      <p begin="00:00:45.076" end="00:00:47.533" region="" style="">
+        <span>and we need</span>
+        <br/>
+        <span>to share this with our customers.</span>
+      </p>
+      <p begin="00:00:47.869" end="00:00:49.173" region="" style="">
+        <span>That’s what this is about.</span>
+      </p>
+      <p begin="00:00:49.478" end="00:00:52.309" region="" style="">
+        <span>Today, in Thomson Reuters,</span>
+        <br/>
+        <span>we have best practices</span>
+      </p>
+      <p begin="00:00:52.310" end="00:00:54.467" region="" style="">
+        <span>that are sprinkled</span>
+        <br/>
+        <span>across the organization</span>
+      </p>
+      <p begin="00:00:54.468" end="00:00:55.687" region="" style="">
+        <span>in terms of going to market.</span>
+      </p>
+      <p begin="00:00:55.990" end="00:00:58.966" region="" style="">
+        <span>If we were able to pull</span>
+        <br/>
+        <span>all those best practices together,</span>
+      </p>
+      <p begin="00:00:59.318" end="00:01:01.565" region="" style="">
+        <span>we would be a formidable force</span>
+        <br/>
+        <span>in the marketplace.</span>
+      </p>
+      <p begin="00:01:01.642" end="00:01:02.708" region="" style="">
+        <span>The biggest challenge for me</span>
+      </p>
+      <p begin="00:01:02.709" end="00:01:05.083" region="" style="">
+        <span>with the way we currently</span>
+        <br/>
+        <span>approach sales operations</span>
+      </p>
+      <p begin="00:01:05.197" end="00:01:08.527" region="" style="">
+        <span>is that we do it in a vacuum.</span>
+        <br/>
+        <span>We can’t get out of our own way.</span>
+      </p>
+      <p begin="00:01:08.548" end="00:01:11.285" region="" style="">
+        <span>Right now, our reps</span>
+        <br/>
+        <span>are spending entirely too much time</span>
+      </p>
+      <p begin="00:01:11.286" end="00:01:13.927" region="" style="">
+        <span>on administrative tasks,</span>
+        <br/>
+        <span>which is taking them away</span>
+      </p>
+      <p begin="00:01:13.928" end="00:01:16.002" region="" style="">
+        <span>from spending time</span>
+        <br/>
+        <span>where they should be spending it.</span>
+      </p>
+      <p begin="00:01:16.003" end="00:01:17.212" region="" style="">
+        <span>Which is in front of our customers.</span>
+      </p>
+      <p begin="00:01:17.299" end="00:01:21.107" region="" style="">
+        <span>Today, we do not get</span>
+        <br/>
+        <span>a significant percentage of our leads</span>
+      </p>
+      <p begin="00:01:21.316" end="00:01:23.540" region="" style="">
+        <span>through the demand generation</span>
+        <br/>
+        <span>and marketing channel.</span>
+      </p>
+      <p begin="00:01:23.996" end="00:01:26.500" region="" style="">
+        <span>Roughly 10 to 11 percent,</span>
+        <br/>
+        <span>and that could be higher.</span>
+      </p>
+      <p begin="00:01:26.722" end="00:01:29.102" region="" style="">
+        <span>I think a coordinated</span>
+        <br/>
+        <span>go-to-market strategy for retention</span>
+      </p>
+      <p begin="00:01:29.103" end="00:01:30.525" region="" style="">
+        <span>would be extremely compelling.</span>
+      </p>
+      <p begin="00:01:30.821" end="00:01:32.392" region="" style="">
+        <span>It means our customers</span>
+      </p>
+      <p begin="00:01:32.393" end="00:01:35.545" region="" style="">
+        <span>will derive much more value</span>
+        <br/>
+        <span>from our platforms.</span>
+      </p>
+      <p begin="00:01:35.991" end="00:01:37.997" region="" style="">
+        <span>It would mean that they’d</span>
+        <br/>
+        <span>be able to navigate</span>
+      </p>
+      <p begin="00:01:38.261" end="00:01:40.394" region="" style="">
+        <span>the uncertainty</span>
+        <br/>
+        <span>in their respective businesses</span>
+      </p>
+      <p begin="00:01:40.395" end="00:01:41.679" region="" style="">
+        <span>that they face nowadays.</span>
+      </p>
+      <p begin="00:01:42.105" end="00:01:46.135" region="" style="">
+        <span>A coordinated global approach</span>
+        <br/>
+        <span>to enterprise selling</span>
+      </p>
+      <p begin="00:01:46.236" end="00:01:51.040" region="" style="">
+        <span>is a unique opportunity to grow</span>
+        <br/>
+        <span>and to serve our customers better.</span>
+      </p>
+      <p begin="00:01:51.329" end="00:01:55.223" region="" style="">
+        <span>We need to have a common vocabulary,</span>
+        <br/>
+        <span>a common lexicon</span>
+      </p>
+      <p begin="00:01:55.564" end="00:01:58.189" region="" style="">
+        <span>and a common way</span>
+        <br/>
+        <span>of talking about customers.</span>
+      </p>
+      <p begin="00:01:58.434" end="00:02:02.307" region="" style="">
+        <span>It’s really about developing</span>
+        <br/>
+        <span>a common view of our customers</span>
+      </p>
+      <p begin="00:02:02.308" end="00:02:04.974" region="" style="">
+        <span>and better understanding</span>
+        <br/>
+        <span>what their needs are.</span>
+      </p>
+      <p begin="00:02:05.101" end="00:02:09.857" region="" style="">
+        <span>Really, we want to show the world</span>
+        <br/>
+        <span>that Thomson Reuters is by far</span>
+      </p>
+      <p begin="00:02:09.858" end="00:02:14.651" region="" style="">
+        <span>the most global, the most scalable,</span>
+        <br/>
+        <span>the most comprehensive solution</span>
+      </p>
+      <p begin="00:02:14.833" end="00:02:19.201" region="" style="">
+        <span>and trusted partner for solving</span>
+        <br/>
+        <span>our customers’ biggest problems.</span>
+      </p>
+      <p begin="00:02:19.509" end="00:02:22.817" region="" style="">
+        <span>Our customers are asking for it,</span>
+        <br/>
+        <span>our markets are demanding it.</span>
+      </p>
+      <p begin="00:02:23.264" end="00:02:26.353" region="" style="">
+        <span>The difference for us</span>
+        <br/>
+        <span>is being just successful,</span>
+      </p>
+      <p begin="00:02:26.354" end="00:02:27.952" region="" style="">
+        <span>or being wildly successful.</span>
+      </p>
+      <p begin="00:02:28.397" end="00:02:30.291" region="" style="">
+        <span>I think</span>
+        <br/>
+        <span>there’s a profound responsibility</span>
+      </p>
+      <p begin="00:02:30.292" end="00:02:33.375" region="" style="">
+        <span>that goes with the trust</span>
+        <br/>
+        <span>our customers have in us.</span>
+      </p>
+      <p begin="00:02:33.988" end="00:02:36.176" region="" style="">
+        <span>I take that very, very seriously.</span>
+      </p>
+      <p begin="00:02:37.078" end="00:02:41.883" region="" style="">
+        <span>They are relying on us for the most</span>
+        <br/>
+        <span>important questions they face</span>
+      </p>
+      <p begin="00:02:42.690" end="00:02:45.755" region="" style="">
+        <span>and that carries with it</span>
+        <br/>
+        <span>an obligation on our part,</span>
+      </p>
+      <p begin="00:02:46.304" end="00:02:49.687" region="" style="">
+        <span>that we make sure</span>
+        <br/>
+        <span>we get it absolutely right.</span>
+      </p>
+    </div>
+  </body>
+</tt>

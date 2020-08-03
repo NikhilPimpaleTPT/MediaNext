@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+
+ <test thread-count="1" name="Test1">
+	<packages>
+		<package name="admin.login"/>
+	</packages>
+ </test> 
+
+ <!-- <test thread-count="1" name="Test2">
+	<packages>
+		<package name="Smoke"/>
+	</packages>
+ </test>  -->
+
+ 
+</suite> <!-- Suite -->

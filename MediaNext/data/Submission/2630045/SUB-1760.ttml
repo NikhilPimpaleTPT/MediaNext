@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="">
+  <head>
+    <ttm:metadata>
+      <ttm:title>69069.srt</ttm:title>
+      <ttm:desc></ttm:desc>
+      <ttm:agent xml:id="lolo" type="character"/>
+      <ttm:agent xml:id="Amb_baby" type="character"/>
+    </ttm:metadata>
+    <styling/>
+    <layout>
+      <region xml:id="bottom-center" tts:origin="10% 10%" tts:extent="80% 20%" tts:displayAlign="after"/>
+      <region xml:id="top-center" tts:origin="10% 70%" tts:extent="80% 20%" tts:displayAlign="before"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p xml:id="" ttm:agent="lolo" begin="00:00:07.549" end="00:00:10.511">It&apos;s always important
+        <br/>to remember to maintain.</p>
+      <p xml:id="" ttm:agent="lolo" begin="00:00:10.594" end="00:00:13.305">I contact
+        <br/>when you&apos;re talking to your boss.</p>
+      <p xml:id="" ttm:agent="Amb_baby" begin="00:00:13.847" end="00:00:17.518">Here&apos;s a binder of all the value
+        <br/>props around going</p>
+      <p xml:id="" begin="00:00:17.601" end="00:00:19.436">to the Global link next conference.</p>
+      <p xml:id="" begin="00:00:19.686" end="00:00:20.812">So pretend I&apos;m your boss.</p>
+      <p xml:id="" begin="00:00:21.939" end="00:00:23.899">Walk me through the list,</p>
+      <p xml:id="" begin="00:00:24.525" end="00:00:28.028">but be sure to maintain
+        <br/>eye contact with me.</p>
+      <p xml:id="" begin="00:00:28.779" end="00:00:29.863">Okay,</p>
+      <p xml:id="" begin="00:00:30.614" end="00:00:31.698">Global ink. Next.</p>
+      <p xml:id="" begin="00:00:31.782" end="00:00:32.866">Also</p>
+      <p xml:id="" begin="00:00:32.991" end="00:00:34.243">eyes up here, buddy.</p>
+      <p xml:id="" begin="00:00:34.493" end="00:00:40.332">Global Link. Next conference
+        <br/>is a fellow is a eyes on name.</p>
+      <p xml:id="" begin="00:00:42.084" end="00:00:45.879">It&apos;s a conference about globalization.</p>
+      <p xml:id="" begin="00:00:46.129" end="00:00:47.214">And</p>
+      <p xml:id="" begin="00:00:49.216" end="00:00:50.843">look, I don&apos;t think I can read it
+        <br/>without reading.</p>
+      <p xml:id="" begin="00:00:52.845" end="00:00:56.515">Change fifty two
+        <br/>to &quot;know what you&apos;re going to say&quot;.</p>
+      <p xml:id="" begin="00:00:58.392" end="00:01:03.188">And if you still need help convincing
+        <br/>your boss to send you to global ink.</p>
+      <p xml:id="" begin="00:01:03.272" end="00:01:09.319">Next, cut that link Tiger.
+        <br/>His pants were brand new,</p>
+      <p xml:id="" begin="00:01:09.778" end="00:01:12.114">but Scotch is eighteen years old.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Gossip Girl</ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="normal" tts:color="white" tts:fontFamily="Arial" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal" tts:textAlign="center" />
+    </styling>
+    <layout>
+      <region xml:id="bottom" tts:origin="10% 50%" tts:extent="80% 40%" tts:displayAlign="after" />
+      <region xml:id="top" tts:origin="10% 10%" tts:extent="80% 40%" tts:displayAlign="before" />
+    </layout>
+  </head>
+  <body>
+    <div ttm:role="caption" region="bottom" style="normal">
+
+<p xml:id="p1" begin="00:00:00:04" end="00:00:03:00"><span tts:fontStyle="italic">Jellyfish at the Monterey Aquarium</span></p>
+<p xml:id="p1" begin="00:00:04:08" end="00:00:06:80"><span tts:fontStyle="italic">JDude - get out of the way!</span></p>
+<p xml:id="p1" begin="00:00:09:35" end="00:00:15:35"><span tts:fontStyle="italic">Shaky Hands...</span></p>
+<p xml:id="p1" begin="00:00:17:04" end="00:00:22:00"><span tts:fontStyle="italic">Ah yes, this is better...</span></p>
+<p xml:id="p1" begin="00:00:24:82" end="00:00:27:82"><span tts:fontStyle="italic">Pro Tip: Turn off the camera flash!</span></p>
+<p xml:id="p1" begin="00:00:33:04" end="00:00:41:00"><span tts:fontStyle="italic">Thanks for watching and I hope you'll have fun with the VideoSub library!</span></p>
+
+    </div>
+  </body>
+</tt>

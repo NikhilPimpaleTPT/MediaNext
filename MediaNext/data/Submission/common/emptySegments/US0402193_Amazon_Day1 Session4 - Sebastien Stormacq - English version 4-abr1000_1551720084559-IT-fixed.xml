@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="">
+  <head>
+    <metadata>
+      <ttm:title>Day1 Session4 - Sebastien Stormacq - English version 4-abr1000 (1)_mpeg4.srt</ttm:title>
+      <ttm:desc></ttm:desc>
+    </metadata>
+    <styling />
+    <layout>
+      <region xml:id="bottom-center" tts:origin="10% 10%" tts:extent="80% 20%" tts:displayAlign="after" />
+      <region xml:id="top-center" tts:origin="10% 70%" tts:extent="80% 20%" tts:displayAlign="before" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p xml:id="" begin="00:00:00.200" end="00:00:02.840">Buon pomeriggio. Mi chiamo<br />Sebastien Stormacq.</p>
+      <p xml:id="" begin="00:00:03.000" end="00:00:06.880"></p>
+      <p xml:id="" begin="00:00:07.240" end="00:00:10.240">E 'stata una lunga giornata. Oggi<br />abbiamo parlato di molti servizi.</p>
+      <p xml:id="" begin="00:00:10.600" end="00:00:12.200"></p>
+      <p xml:id="" begin="00:00:12.360" end="00:00:18.080">Ricapitoliamo un po 'di ciò di cui hai<br />parlato e parla dei prossimi passi.</p>
+      <p xml:id="" begin="00:00:18.400" end="00:00:22.520"></p>
+      <p xml:id="" begin="00:00:22.680" end="00:00:25.120">Quindi la prima cosa<br />che potresti chiedertelo è</p>
+	  <p xml:id="" begin="00:00:25.280" end="00:00:29.040">dove posso trovare ulteriori<br />informazioni su AWS o</p>
+	  <p xml:id="" begin="00:00:29.200" end="00:00:32.360"></p>
+      <p xml:id="" begin="00:00:32.520" end="00:00:35.240">E come abbiamo appena detto nel<br />modulo, uno dei modi migliori per</p>
+	  <p xml:id="" begin="00:00:35.600" end="00:00:37.640">ottenere aiuto e per saperne di</p>
+	  <p xml:id="" begin="00:00:37.800" end="00:00:41.720">più su AWS è scoprire la<br />nostra offerta di formazione.</p>
+      <p xml:id="" begin="00:00:42.080" end="00:00:45.920">Abbiamo una formazione di tre giorni in<br />classe con un istruttore o se preferisci</p>
+	  <p xml:id="" begin="00:00:46.400" end="00:00:48.560">imparare da solo e seguire il nostro</p>
+	  <p xml:id="" begin="00:00:49.240" end="00:00:52.720">corso di e-learning o un video, abbiamo<br />anche quello.</p>
+      <p xml:id="" begin="00:00:53.080" end="00:00:55.000">E se vuoi mostrare al<br />resto del mondo quanto sei</p>
+	  <p xml:id="" begin="00:00:55.160" end="00:00:57.560">diventato abile con AWS.</p>
+      <p xml:id="" begin="00:00:57.720" end="00:01:00.080">Se vuoi mostrare al tuo<br />capo o al tuo futuro</p>
+	  <p xml:id="" begin="00:01:00.280" end="00:01:02.360">capo quanto sei abile con</p>
+	  <p xml:id="" begin="00:01:02.520" end="00:01:04.120">AWS, non dimenticare di controllare<br />la nostra certificazione.</p>
+      <p xml:id="" begin="00:01:04.280" end="00:01:07.840">Tutta questa formazione, formazione<br />online e certificazione, c'è</p>
+	  <p xml:id="" begin="00:01:08.000" end="00:01:10.000">solo un punto di<br />accesso per questo.</p>
+      <p xml:id="" begin="00:01:10.160" end="00:01:15.320">È AWS.training. Così<br />http://aws.training.</p>
+      <p xml:id="" begin="00:01:15.880" end="00:01:19.160">Ma abbiamo anche una presenza online<br />su molti social network.</p>
+      <p xml:id="" begin="00:01:19.320" end="00:01:25.880">Quindi hai tutti i<br />link su AWS.amazon.com/developer/community</p>
+	  <p xml:id="" begin="00:01:26.040" end="00:01:28.600">Ad esempio, troverai i link<br />a GitHub con tantissimi esempi</p>
+	  <p xml:id="" begin="00:01:28.760" end="00:01:33.480">di codice che puoi trovare<br />su GitHub.com.</p>
+      <p xml:id="" begin="00:01:33.800" end="00:01:36.720">Ci siamo anche su Stack Overflow<br />per rispondere alle tue domande,</p>
+	  <p xml:id="" begin="00:01:36.880" end="00:01:39.280">Rispondo personalmente a molte<br />domande ogni giorno da</p>
+	  <p xml:id="" begin="00:01:39.800" end="00:01:42.320">sviluppatori come te su<br />Stack Overflow.</p>
+      <p xml:id="" begin="00:01:42.600" end="00:01:45.280">Siamo presenti su Reddit. Siamo<br />presenti su Instagram.</p>
+      <p xml:id="" begin="00:01:45.440" end="00:01:46.960">Siamo presenti su Twitter.</p>
+      <p xml:id="" begin="00:01:47.120" end="00:01:51.440">Facciamo live broadcasting di video su<br />Twitch ogni giorno in inglese.</p>
+      <p xml:id="" begin="00:01:51.880" end="00:01:54.120">Puoi trovare i video registrati<br />e tutte le sessioni da</p>
+	  <p xml:id="" begin="00:01:54.280" end="00:01:55.640">diverse conferenze AWS incluso il</p>
+	  <p xml:id="" begin="00:01:55.800" end="00:01:58.560">re: conferenza Invent su YouTube.<br /></p>
+      <p xml:id="" begin="00:01:59.000" end="00:02:02.200">E infine sono abbastanza sicuro che<br />ci sia una città vicina a</p>
+	  <p xml:id="" begin="00:02:02.360" end="00:02:05.480">dove vivi o che troverai su<br />Meetup.com con un gruppo di utenti</p>
+	  <p xml:id="" begin="00:02:05.640" end="00:02:07.240">AWS.</p>
+      <p xml:id="" begin="00:02:07.400" end="00:02:09.080">I gruppi di utenti sono comunità di</p>
+	  <p xml:id="" begin="00:02:09.240" end="00:02:12.600">utenti che si riuniscono ogni mese, ogni<br />trimestre per parlare di AWS.</p>
+      <p xml:id="" begin="00:02:13.240" end="00:02:15.760">Se non esiste un gruppo<br />di utenti vicino a dove</p>
+	  <p xml:id="" begin="00:02:15.920" end="00:02:17.600">vivi, perché non crearne uno.<br />Contattaci.</p>
+      <p xml:id="" begin="00:02:17.760" end="00:02:21.440">Ti aiuteremo a creare il tuo<br />gruppo di utenti AWS.</p>
+      <p xml:id="" begin="00:02:21.600" end="00:02:26.760">Quindi aws.amazon.com/developer/community.<br /></p>
+      <p xml:id="" begin="00:02:26.920" end="00:02:30.440">Questo è dove troverai tutti i link<br />di cui ho appena parlato.</p>
+      <p xml:id="" begin="00:02:31.680" end="00:02:34.360">Ora, dopo quel giorno di allenamento,<br />la domanda che potresti chiederti è:</p>
+	  <p xml:id="" begin="00:02:34.520" end="00:02:37.440">come può AWS aiutarmi oggi?</p>
+      <p xml:id="" begin="00:02:37.600" end="00:02:40.240">Pensa al progetto a cui stai<br />lavorando in questo momento o pensa</p>
+	  <p xml:id="" begin="00:02:40.400" end="00:02:42.880">a un progetto che inizierai la<br />prossima settimana e scegli uno o</p>
+	  <p xml:id="" begin="00:02:43.200" end="00:02:46.480">due servizi AWS che ti aiuteranno</p>
+	  <p xml:id="" begin="00:02:46.640" end="00:02:50.120">a costruire il tuo progetto più<br />velocemente.</p>
+      <p xml:id="" begin="00:02:50.520" end="00:02:53.720">Quindi scegli quel servizio e<br />vai più a fondo, immergiti</p>
+	  <p xml:id="" begin="00:02:53.880" end="00:02:58.280">più a fondo in quel<br />servizio, impara quel servizio, pratica,</p>
+	  <p xml:id="" begin="00:02:58.480" end="00:03:02.680">leggi blog, prova, sperimenta. Abbiamo<br />molti servizi diversi di cui</p>
+	  <p xml:id="" begin="00:03:02.840" end="00:03:05.680">non abbiamo parlato oggi, ad<br />esempio, abbiamo un servizio di</p>
+	  <p xml:id="" begin="00:03:05.920" end="00:03:07.280">apprendimento automatico che puoi facilmente</p>
+	  <p xml:id="" begin="00:03:07.440" end="00:03:10.720">integrare nella tua applicazione.<br /></p>
+      <p xml:id="" begin="00:03:10.880" end="00:03:12.880">Anche se non sei un<br />data scientist, anche se non</p>
+	  <p xml:id="" begin="00:03:13.040" end="00:03:16.160">sei una persona che apprende<br />in modo automatico.</p>
+      <p xml:id="" begin="00:03:16.480" end="00:03:19.440">Sono uno sviluppatore regolare, non<br />sono un esperto di apprendimento</p>
+	  <p xml:id="" begin="00:03:19.600" end="00:03:21.320">automatico e sono in grado<br />di integrare questo servizio con</p>
+	  <p xml:id="" begin="00:03:21.480" end="00:03:24.360">poche righe di codice come<br />10, 20 30 linee di</p>
+	  <p xml:id="" begin="00:03:24.520" end="00:03:29.360">JavaScript in un'app Web e<br />posso integrare i servizi.</p>
+      <p xml:id="" begin="00:03:29.640" end="00:03:30.960">Prendiamo solo un esempio.</p>
+      <p xml:id="" begin="00:03:31.120" end="00:03:35.160">Abbiamo un servizio chiamato Amazon Recognition<br />e Amazon Recognition è un servizio</p>
+	  <p xml:id="" begin="00:03:35.320" end="00:03:39.920">per il rilevamento delle etichette o<br />il rilevamento dei volti sulle immagini,</p>
+	  <p xml:id="" begin="00:03:40.080" end="00:03:42.640">quindi invia la tua foto ad<br />Amazon Recognition e ti restituirà un</p>
+	  <p xml:id="" begin="00:03:42.800" end="00:03:44.600">po 'di</p>
+	  <p xml:id="" begin="00:03:44.760" end="00:03:49.320">JSON ha formattato i dati<br />sulla tua foto.</p>
+      <p xml:id="" begin="00:03:50.000" end="00:03:51.600">Facciamo un esempio insieme.</p>
+      <p xml:id="" begin="00:03:51.880" end="00:03:56.480">Se vai su steps.2 / pollyco,</p>
+	  <p xml:id="" begin="00:03:57.320" end="00:04:01.800">troverai qualcosa di simile a questo,<br />lasciami passare il mio schermo troverai</p>
+	  <p xml:id="" begin="00:04:04.000" end="00:04:06.840">una pagina web come questa.</p>
+      <p xml:id="" begin="00:04:07.000" end="00:04:10.920">Quindi questo è pollyco, è<br />per Polly e riconoscimento.</p>
+      <p xml:id="" begin="00:04:11.840" end="00:04:13.440">È un'applicazione molto semplice, sviluppata da</p>
+	  <p xml:id="" begin="00:04:13.600" end="00:04:18.640">uno dei miei colleghi, che consente<br />con meno di 30 o 40</p>
+	  <p xml:id="" begin="00:04:18.800" end="00:04:20.680">linee di codice javascript di analizzare</p>
+	  <p xml:id="" begin="00:04:21.040" end="00:04:26.640">un'immagine e generare una voce che<br />descrive l'immagine.</p>
+      <p xml:id="" begin="00:04:27.120" end="00:04:30.560">Puoi provarlo sul tuo telefono per<br />scattare una foto di te stesso</p>
+	  <p xml:id="" begin="00:04:30.800" end="00:04:34.720">oppure puoi semplicemente caricare l'immagine che<br />hai già sul tuo laptop.</p>
+      <p xml:id="" begin="00:04:35.120" end="00:04:39.000">Carica l'immagine rileva il viso<br />e genera ...</p>
+      <p xml:id="" begin="00:04:39.440" end="00:04:42.600">Mi chiamo Polly. In questa<br />immagine vedo una faccia.</p>
+      <p xml:id="" begin="00:04:42.960" end="00:04:47.120">La prima faccia è una donna arrabbiata<br />tra i 15 ei 25 anni.</p>
+      <p xml:id="" begin="00:04:47.400" end="00:04:51.360">Penso di vedere anche abiti,<br />abbigliamento, piante e alberi.</p>
+      <p xml:id="" begin="00:04:52.600" end="00:04:55.800">Quindi analizza l'immagine rileva<br />un paio di etichette</p>
+	  <p xml:id="" begin="00:04:55.960" end="00:04:57.480">come se ci fossero<br />vestiti, ci sono alberi,</p>
+	  <p xml:id="" begin="00:04:57.640" end="00:05:01.280">c'è acqua, c'è una<br />femmina.</p>
+      <p xml:id="" begin="00:05:01.880" end="00:05:05.680">Una donna su quell'immagine e<br />genera una voce, una voce</p>
+	  <p xml:id="" begin="00:05:05.920" end="00:05:08.240">sintetica, con un altro servizio<br />di machine learning che abbiamo</p>
+	  <p xml:id="" begin="00:05:08.400" end="00:05:09.720">chiamato Polly in grado di</p>
+	  <p xml:id="" begin="00:05:09.880" end="00:05:12.480">parlare molte lingue diverse con<br />voci diverse e trasmettere quella</p>
+	  <p xml:id="" begin="00:05:12.800" end="00:05:16.200">voce attraverso l'interfaccia web.<br /></p>
+      <p xml:id="" begin="00:05:16.520" end="00:05:20.560">Quindi ancora una volta sono meno<br />di 100 righe di codice.</p>
+      <p xml:id="" begin="00:05:20.720" end="00:05:21.840">È scritto in Javascript, puoi semplicemente controllare</p>
+	  <p xml:id="" begin="00:05:22.000" end="00:05:24.840">il codice sorgente di quella pagina web<br />per vedere come funziona.</p>
+      <p xml:id="" begin="00:05:25.000" end="00:05:27.520">Niente è nascosto È anche<br />disponibile su GitHub.</p>
+      <p xml:id="" begin="00:05:28.720" end="00:05:32.560">E questo è il tipo di esempio che è<br />il tipo di servizio che puoi ...</p>
+      <p xml:id="" begin="00:05:32.960" end="00:05:38.800">puoi testare, puoi integrarti molto facilmente<br />all'interno della tua applicazione.</p>
+      <p xml:id="" begin="00:05:39.840" end="00:05:45.400">E utilizzando tutti questi servizi,<br />ti forniamo una piattaforma di</p>
+	  <p xml:id="" begin="00:05:45.560" end="00:05:50.160">servizi che puoi utilizzare per<br />sperimentare e innovare.</p>
+      <p xml:id="" begin="00:05:50.680" end="00:05:53.880">E quando puoi sperimentare facilmente,</p>
+	  <p xml:id="" begin="00:05:54.080" end="00:05:57.440">è molto probabile che innoverai<br />di più.</p>
+      <p xml:id="" begin="00:05:57.800" end="00:06:02.400">Una delle chiavi dell'innovazione è ridurre<br />il costo del fallimento.</p>
+      <p xml:id="" begin="00:06:02.560" end="00:06:06.560">Questa è una citazione di Joi Ito,<br />il direttore del MIT Media Lab</p>
+	  <p xml:id="" begin="00:06:06.720" end="00:06:09.520">Se vuoi aumentare l'innovazione, devi<br />abbassare il costo del fallimento</p>
+	  <p xml:id="" begin="00:06:09.680" end="00:06:12.360">se vuoi aumentare l'innovazione devi</p>
+	  <p xml:id="" begin="00:06:12.680" end="00:06:17.280">essere in grado di testare<br />e sperimentare molto facilmente e</p>
+	  <p xml:id="" begin="00:06:17.560" end="00:06:18.800">quando le cose non stanno</p>
+	  <p xml:id="" begin="00:06:18.960" end="00:06:22.200">funzionando per rilevarlo rapidamente nel<br />processo in modo che non</p>
+	  <p xml:id="" begin="00:06:22.360" end="00:06:25.400">stai investendo troppo tempo o<br />denaro in anticipo, puoi testare</p>
+	  <p xml:id="" begin="00:06:25.560" end="00:06:28.080">idee diverse. E statisticamente, se<br />testate più idee, statisticamente una</p>
+	  <p xml:id="" begin="00:06:28.240" end="00:06:31.880">o due di queste idee<br />saranno la prossima grande cosa</p>
+	  <p xml:id="" begin="00:06:32.040" end="00:06:35.080">che farà la differenza per<br />il vostro cliente o la</p>
+	  <p xml:id="" begin="00:06:35.320" end="00:06:37.920">differenza per la vostra attività.<br /></p>
+      <p xml:id="" begin="00:06:38.320" end="00:06:41.000">E su Amazon sono<br />quattro diversi pilastri.</p>
+      <p xml:id="" begin="00:06:41.160" end="00:06:43.880">Esistono quattro diverse tecniche<br />di quattro diversi meccanismi</p>
+	  <p xml:id="" begin="00:06:44.200" end="00:06:47.720">che stiamo utilizzando per<br />promuovere l'innovazione.</p>
+      <p xml:id="" begin="00:06:48.160" end="00:06:52.280">Il primo meccanismo che stiamo usando<br />è minimizzare il rischio.</p>
+      <p xml:id="" begin="00:06:52.480" end="00:06:57.080">È fornire una barriera di accesso<br />molto bassa, come la maggior parte</p>
+	  <p xml:id="" begin="00:06:57.240" end="00:06:59.920">dei servizi AWS.</p>
+      <p xml:id="" begin="00:07:00.080" end="00:07:03.200">Ad esempio, uno dei meccanismi che<br />stiamo utilizzando è una porta a</p>
+	  <p xml:id="" begin="00:07:03.360" end="00:07:07.040">senso unico o una porta a<br />due vie?</p>
+      <p xml:id="" begin="00:07:07.200" end="00:07:08.920">Allora, che cos'è una porta a senso<br />unico o a due vie?</p>
+      <p xml:id="" begin="00:07:09.280" end="00:07:10.320">Quando prendi una decisione</p>
+	  <p xml:id="" begin="00:07:10.480" end="00:07:12.520">quando vuoi sperimentare qualcosa,<br />è una decisione che</p>
+	  <p xml:id="" begin="00:07:12.880" end="00:07:17.080">puoi ripristinare facilmente?<br /></p>
+      <p xml:id="" begin="00:07:17.240" end="00:07:22.400">O è una decisione che ti impegnerà<br />per molti anni a venire?</p>
+      <p xml:id="" begin="00:07:22.720" end="00:07:26.560">Se è una decisione a<br />lungo termine che non è</p>
+	  <p xml:id="" begin="00:07:26.720" end="00:07:29.760">possibile ripristinare facilmente, la chiamiamo<br />porta a senso unico e</p>
+	  <p xml:id="" begin="00:07:29.920" end="00:07:34.040">questi devono essere attentamente valutati<br />e attentamente ponderati per decidere</p>
+	  <p xml:id="" begin="00:07:34.200" end="00:07:35.800">se prendere o meno tale<br />decisione.</p>
+      <p xml:id="" begin="00:07:36.200" end="00:07:39.880">Ma usando un nuovo servizio AWS sperimentando<br />con un nuovo servizio AWS come Amazon</p>
+	  <p xml:id="" begin="00:07:40.080" end="00:07:43.560">riconoscimento e Polly che ho appena demo,<br />è una porta a due vie.</p>
+      <p xml:id="" begin="00:07:43.720" end="00:07:45.640">Puoi provare molto facilmente e puoi</p>
+	  <p xml:id="" begin="00:07:45.840" end="00:07:48.240">tornare indietro se non è il<br />servizio giusto per te e le</p>
+	  <p xml:id="" begin="00:07:48.400" end="00:07:50.000">decisioni sulle porte a due vie</p>
+	  <p xml:id="" begin="00:07:50.200" end="00:07:52.560">non dovrebbero richiedere molto tempo per<br />sperimentare.</p>
+      <p xml:id="" begin="00:07:53.200" end="00:07:55.440">Puoi prenderne parecchi<br />al giorno.</p>
+      <p xml:id="" begin="00:07:55.600" end="00:07:59.000">Questo è uno dei<br />meccanismi che stiamo utilizzando</p>
+	  <p xml:id="" begin="00:07:59.360" end="00:08:01.680">su Amazon per minimizzare</p>
+	  <p xml:id="" begin="00:08:01.840" end="00:08:05.320">il rischio e identificare<br />la decisione che ha</p>
+	  <p xml:id="" begin="00:08:05.480" end="00:08:08.160">conseguenze o decisioni che<br />hanno conseguenze basse.</p>
+      <p xml:id="" begin="00:08:08.400" end="00:08:10.880">E ovviamente devi permetterti<br />di fallire.</p>
+      <p xml:id="" begin="00:08:11.040" end="00:08:13.680">Va bene fallire. Va<br />bene sperimentare.</p>
+      <p xml:id="" begin="00:08:13.840" end="00:08:16.600">E per decidere che no, non era<br />il modo giusto per farlo.</p>
+      <p xml:id="" begin="00:08:16.760" end="00:08:19.880">Finché puoi imparare da questi<br />errori e tornare indietro e</p>
+	  <p xml:id="" begin="00:08:20.040" end="00:08:22.120">costruire qualcosa di nuovo in<br />base alla lezione che hai</p>
+	  <p xml:id="" begin="00:08:22.280" end="00:08:23.320">imparato da questi fallimenti.</p>
+      <p xml:id="" begin="00:08:23.480" end="00:08:25.760">Ad Amazon abbiamo alcuni<br />esempi di fallimento.</p>
+      <p xml:id="" begin="00:08:26.200" end="00:08:29.080">Ad esempio un paio di<br />anni fa avremmo lanciato un</p>
+	  <p xml:id="" begin="00:08:29.240" end="00:08:31.600">telefono, il telefono Fire. Un<br />paio di anni fa abbiamo</p>
+	  <p xml:id="" begin="00:08:31.760" end="00:08:34.120">lanciato Amazon Auction Amazon Auction<br />consente ai clienti di vendere</p>
+	  <p xml:id="" begin="00:08:34.280" end="00:08:37.480">le loro cose su un<br />sistema basato su aste ma</p>
+	  <p xml:id="" begin="00:08:37.760" end="00:08:40.600">al momento non eravamo pronti<br />per competere con eBay.</p>
+      <p xml:id="" begin="00:08:41.080" end="00:08:43.520">Abbiamo appreso da quel fallimento che<br />abbiamo chiuso questi servizi e, ad</p>
+	  <p xml:id="" begin="00:08:44.200" end="00:08:48.720">esempio, da Amazon Auction, abbiamo lanciato<br />Amazon Marketplace, che ora è uno</p>
+	  <p xml:id="" begin="00:08:48.880" end="00:08:51.920">dei pilastri del commercio al dettaglio<br />in Amazon.</p>
+      <p xml:id="" begin="00:08:52.080" end="00:08:57.280">Quindi imparare dal tuo fallimento è<br />molto importante, permettervi di fallire velocemente,</p>
+	  <p xml:id="" begin="00:08:57.440" end="00:09:02.120">di non investire troppo tempo o<br />troppi soldi in un progetto e</p>
+	  <p xml:id="" begin="00:09:02.280" end="00:09:03.960">di rilevare il vostro fallimento molto<br />velocemente in modo da poter cambiare</p>
+	  <p xml:id="" begin="00:09:04.120" end="00:09:07.160">e sperimentare su un'altra idea.<br /></p>
+      <p xml:id="" begin="00:09:08.040" end="00:09:11.440">Il terzo pilastro, il terzo meccanismo<br />che stiamo utilizzando su Amazon per</p>
+	  <p xml:id="" begin="00:09:11.600" end="00:09:16.160">promuovere l'innovazione, è quello di avere<br />squadre molto piccole, squadre agili.</p>
+      <p xml:id="" begin="00:09:16.320" end="00:09:20.840">Quando una squadra è piccola, è<br />più facile per loro comunicare.</p>
+      <p xml:id="" begin="00:09:22.320" end="00:09:25.400">La dimensione ideale per una squadra<br />all'interno di Amazon, diciamo che è</p>
+	  <p xml:id="" begin="00:09:25.640" end="00:09:27.040">una squadra di due pizzaioli.</p>
+      <p xml:id="" begin="00:09:27.200" end="00:09:30.360">Quindi, se non puoi nutrire la<br />tua squadra con due pizze, significa</p>
+	  <p xml:id="" begin="00:09:30.520" end="00:09:33.520">che la squadra è troppo grande<br />e devi dividere la squadra.</p>
+      <p xml:id="" begin="00:09:33.680" end="00:09:37.240">Un tipico team di Amazon è<br />un product manager o un product</p>
+	  <p xml:id="" begin="00:09:37.480" end="00:09:39.440">manager tecnico un paio di ingegneri<br />di sviluppo software.</p>
+      <p xml:id="" begin="00:09:39.600" end="00:09:42.080">Questo è il terzo pilastro<br />per promuovere l'innovazione.</p>
+      <p xml:id="" begin="00:09:42.240" end="00:09:44.720">Cerca di essere agile con una piccola squadra.</p>
+      <p xml:id="" begin="00:09:45.240" end="00:09:48.240">E il quarto pilastro che stiamo<br />usando per promuovere l'innovazione, è un</p>
+	  <p xml:id="" begin="00:09:48.600" end="00:09:52.600">senso di proprietà se costruisci qualcosa,<br />lo gestisci.</p>
+      <p xml:id="" begin="00:09:53.160" end="00:09:55.240">Quindi non abbiamo un team<br />operativo su Amazon.</p>
+      <p xml:id="" begin="00:09:55.400" end="00:09:58.600">Non disponiamo di un team<br />IT centrale che riceve pacchetti</p>
+	  <p xml:id="" begin="00:09:58.760" end="00:10:00.480">di sviluppo software sviluppati dal<br />team di sviluppo e passa</p>
+	  <p xml:id="" begin="00:10:00.640" end="00:10:02.920">alla produzione proprio come accade<br />in molte organizzazioni.</p>
+	  <p xml:id="" begin="00:10:03.080" end="00:10:04.920"></p>
+      <p xml:id="" begin="00:10:05.480" end="00:10:07.800">Su Amazon, se costruisci qualcosa<br />su cui lo esegui e</p>
+	  <p xml:id="" begin="00:10:08.080" end="00:10:11.960">il vantaggio di far girare<br />qualcosa da solo, in primo</p>
+	  <p xml:id="" begin="00:10:12.200" end="00:10:15.520">luogo assicurerai che il tuo<br />codice sia estremamente resiliente agli</p>
+	  <p xml:id="" begin="00:10:15.680" end="00:10:18.200">errori perché quando sei lo<br />sviluppatore di un pezzo di</p>
+	  <p xml:id="" begin="00:10:18.360" end="00:10:20.040">codice e vieni chiamato 3<br />del mattino perché c'è un</p>
+	  <p xml:id="" begin="00:10:20.200" end="00:10:22.080">problema nel tuo servizio,<br /></p>
+	  <p xml:id="" begin="00:10:22.320" end="00:10:24.400">Posso assicurarti che lo<br />sviluppatore cambierà quella parte</p>
+	  <p xml:id="" begin="00:10:24.560" end="00:10:26.320">di codice la mattina<br />successiva per assicurarti che</p>
+	  <p xml:id="" begin="00:10:26.560" end="00:10:29.640">non si svegli mai<br />alle 3:00 am</p>
+      <p xml:id="" begin="00:10:29.800" end="00:10:32.320">al mattino più per<br />lo stesso problema.</p>
+      <p xml:id="" begin="00:10:32.840" end="00:10:35.280">L'altro vantaggio di gestire il<br />tuo servizio e di eseguire</p>
+	  <p xml:id="" begin="00:10:35.440" end="00:10:37.400">il servizio che stai sviluppando<br />è creare un senso di</p>
+	  <p xml:id="" begin="00:10:38.120" end="00:10:43.720">comunicazione con il tuo cliente.<br /></p>
+      <p xml:id="" begin="00:10:44.000" end="00:10:47.320">Se gestisci un servizio hai uno stretto<br />contatto con il tuo cliente.</p>
+      <p xml:id="" begin="00:10:47.480" end="00:10:49.880">È possibile raccogliere feedback diretti dal<br />cliente in modo da poter imparare</p>
+	  <p xml:id="" begin="00:10:50.080" end="00:10:53.600">dal cliente e migliorare il servizio<br />in modo che il cliente possa</p>
+	  <p xml:id="" begin="00:10:53.800" end="00:11:00.520">effettivamente utilizzare il servizio molto di<br />più.</p>
+      <p xml:id="" begin="00:11:01.080" end="00:11:04.760">Quindi abbiamo quattro meccanismi per<br />promuovere l'innovazione su Amazon.</p>
+      <p xml:id="" begin="00:11:04.920" end="00:11:07.040">Riduci al minimo il rischio, fallisci</p>
+	  <p xml:id="" begin="00:11:07.200" end="00:11:09.440">velocemente, hai un senso di proprietà<br />con un piccolo team e lo</p>
+	  <p xml:id="" begin="00:11:09.600" end="00:11:12.440">esegui, lo hai costruito.</p>
+      <p xml:id="" begin="00:11:12.880" end="00:11:16.160">L'idea è sempre quella di iniziare<br />con qualcosa di piccolo e non</p>
+	  <p xml:id="" begin="00:11:16.440" end="00:11:20.920">provare a sviluppare un sistema grande,<br />grande e complesso da zero.</p>
+      <p xml:id="" begin="00:11:21.080" end="00:11:23.160">Iniziamo con le tue grandi idee.</p>
+      <p xml:id="" begin="00:11:23.440" end="00:11:27.400">Inizia con il sogno più selvaggio che<br />puoi avere nel tuo progetto, ma non</p>
+	  <p xml:id="" begin="00:11:27.600" end="00:11:30.440">cercare di realizzare quel sogno più selvaggio<br />in un colpo solo.</p>
+      <p xml:id="" begin="00:11:30.680" end="00:11:34.240">Inizia con qualcosa di iterato in<br />base al feedback dei clienti e</p>
+	  <p xml:id="" begin="00:11:34.520" end="00:11:37.720">alla fine raggiungerai la tua idea<br />di pensiero.</p>
+      <p xml:id="" begin="00:11:37.880" end="00:11:41.880">Quindi pensare in grande è davvero importante<br />e abbiamo un sacco di esempi di</p>
+	  <p xml:id="" begin="00:11:42.040" end="00:11:44.120">persone che sono riuscite a pensare in<br />grande in [PH] DSRE.</p>
+      <p xml:id="" begin="00:11:44.440" end="00:11:48.120">Adoro quell'esempio di quel ragazzo<br />di Nikola Tesla.</p>
+      <p xml:id="" begin="00:11:48.560" end="00:11:53.000">Quindi, se non conosci Nikola<br />Tesla, è stato un ingegnere</p>
+	  <p xml:id="" begin="00:11:53.160" end="00:11:56.840">elettrico del secolo scorso un<br />europeo, un ingegnere serbo che</p>
+	  <p xml:id="" begin="00:11:57.480" end="00:12:00.480">ha scoperto la corrente alternativa.<br /></p>
+      <p xml:id="" begin="00:12:00.840" end="00:12:05.000">Ha anche scoperto un modo per trasportare<br />l'elettricità su una distanza molto lunga.</p>
+      <p xml:id="" begin="00:12:05.360" end="00:12:07.680">È anche il ragazzo che ha<br />aperto la strada al lavoro per</p>
+	  <p xml:id="" begin="00:12:07.840" end="00:12:09.920">la trasmissione di dati wireless.</p>
+      <p xml:id="" begin="00:12:10.240" end="00:12:13.840">In realtà era il primo a<br />costruire un sistema di radiocomando.</p>
+      <p xml:id="" begin="00:12:14.320" end="00:12:17.600">Quindi oggi se stai usando<br />la tua tecnologia WiFi e</p>
+	  <p xml:id="" begin="00:12:17.760" end="00:12:20.040">Bluetooth sul tuo smartphone, questo<br />è grazie al lavoro che</p>
+	  <p xml:id="" begin="00:12:20.280" end="00:12:22.560">è stato fatto nel secolo<br />scorso</p>
+	  <p xml:id="" begin="00:12:22.720" end="00:12:24.000">da Nikola Tesla.</p>
+      <p xml:id="" begin="00:12:24.160" end="00:12:28.520">E guarda quella citazione. Guarda il libro delle cose di<br />Nikola Tesla, dicendo che quando il</p>
+	  <p xml:id="" begin="00:12:28.680" end="00:12:32.000">wireless è perfettamente applicato, tutta la<br />terra sarà convertita in un enorme</p>
+	  <p xml:id="" begin="00:12:32.160" end="00:12:34.600">cervello.</p>
+      <p xml:id="" begin="00:12:35.040" end="00:12:37.360">E questo è esattamente ciò che<br />sta accadendo in questo momento.</p>
+      <p xml:id="" begin="00:12:38.280" end="00:12:40.600">Pensaci quando stai usando il<br />tuo smartphone sul divano, sul</p>
+	  <p xml:id="" begin="00:12:40.760" end="00:12:43.440">marciapiede, sul treno o persino<br />in un aeroporto, sei collegato</p>
+	  <p xml:id="" begin="00:12:43.600" end="00:12:48.120">al resto del pianeta.<br /></p>
+      <p xml:id="" begin="00:12:48.440" end="00:12:51.160">stai realizzando quella visione che<br />Nikola Tesla ha avuto.</p>
+      <p xml:id="" begin="00:12:51.320" end="00:12:55.640">E guarda la data del 1926.<br />Sono passati quasi 100 anni.</p>
+      <p xml:id="" begin="00:12:55.800" end="00:13:00.000">Questo è un perfetto esempio<br />di Think Big. Sebbene pensi in grande.</p>
+      <p xml:id="" begin="00:13:00.560" end="00:13:03.800">Ma devi iniziare in piccolo<br />perché non conosciamo alcun esempio</p>
+	  <p xml:id="" begin="00:13:03.960" end="00:13:08.400">di sistemi complessi che possono<br />essere progettati da zero e</p>
+	  <p xml:id="" begin="00:13:08.600" end="00:13:11.040">che in realtà stanno lavorando<br />da zero.</p>
+      <p xml:id="" begin="00:13:11.360" end="00:13:14.360">Tutti gli esempi di<br />sistemi complessi che abbiamo</p>
+	  <p xml:id="" begin="00:13:14.720" end="00:13:18.680">effettivamente evoluto da un<br />sistema semplice, un'origine semplice</p>
+	  <p xml:id="" begin="00:13:18.840" end="00:13:22.880">che è stata arricchita<br />in più iterazioni.</p>
+      <p xml:id="" begin="00:13:23.320" end="00:13:26.720">Si chiamano le leggi di John<br />Gall, e John Gall è uno</p>
+	  <p xml:id="" begin="00:13:26.880" end="00:13:31.800">scrittore che ha scritto quel libro<br />fantastico nel 1975.</p>
+      <p xml:id="" begin="00:13:32.280" end="00:13:36.320">Sistematica, come funzionano i sistemi,<br />e specialmente come falliscono.</p>
+      <p xml:id="" begin="00:13:36.480" end="00:13:38.240">Se hai un po 'di tempo<br />per la tua prossima vacanza o</p>
+	  <p xml:id="" begin="00:13:38.400" end="00:13:44.120">prossima lettura durante l'inverno, ti suggerirei<br />di leggere quel libro.</p>
+      <p xml:id="" begin="00:13:44.600" end="00:13:46.480">Infine, per passare da<br />quel piccolo sistema a</p>
+	  <p xml:id="" begin="00:13:46.640" end="00:13:49.240">quel sistema complesso, è<br />necessario iterare.</p>
+      <p xml:id="" begin="00:13:49.400" end="00:13:53.440">E il modo migliore per iterare<br />è ascoltare il tuo cliente.</p>
+      <p xml:id="" begin="00:13:53.720" end="00:13:56.880">Quando lanci un prodotto non è<br />la fine del tuo progetto.</p>
+      <p xml:id="" begin="00:13:57.040" end="00:13:59.800">Quando lanci un prodotto è in<br />realtà il primo giorno e non</p>
+	  <p xml:id="" begin="00:14:00.240" end="00:14:03.480">è il traguardo. È la linea<br />di partenza.</p>
+      <p xml:id="" begin="00:14:04.240" end="00:14:06.760">È necessario ascoltare continuamente i propri<br />clienti e continuare a ripetere il</p>
+	  <p xml:id="" begin="00:14:07.000" end="00:14:10.760">feedback dei propri clienti fino a<br />quando non si raggiunge un progetto</p>
+	  <p xml:id="" begin="00:14:11.280" end="00:14:16.840">o un prodotto che ha veramente<br />successo.</p>
+      <p xml:id="" begin="00:14:17.040" end="00:14:20.560">Questa è una citazione di Andy<br />Jassy, il nostro CEO.</p>
+      <p xml:id="" begin="00:14:21.200" end="00:14:27.280">Quindi pensa a tutto ciò e pensa a<br />quale sarà la tua prossima grande idea.</p>
+      <p xml:id="" begin="00:14:28.440" end="00:14:32.000">Scrivilo su un foglio di<br />carta, graffialo, sostituiscilo.</p>
+      <p xml:id="" begin="00:14:32.160" end="00:14:34.680">Pensa ancora più grande. Qual è<br />la tua prossima grande idea.</p>
+      <p xml:id="" begin="00:14:35.440" end="00:14:41.320">Sogna più in grande, costruisci più<br />velocemente grazie ad AWS.</p>
+      <p xml:id="" begin="00:14:41.480" end="00:14:44.360">E AWS è come<br />puoi farlo. Grazie.</p>
+    </div>
+  </body>
+</tt>
