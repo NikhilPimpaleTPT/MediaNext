@@ -2,17 +2,174 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" parallel="false">
 
- <test thread-count="1" name="Test1">
-	<packages>
-		<package name="admin.login"/>
-	</packages>
- </test> 
 
- <!-- <test thread-count="1" name="Test2">
+<test thread-count="1" name="Test1">
+	<packages>
+		<package name="initial_config"/>
+	</packages>
+</test>
+ 
+<test thread-count="1" name="Test2">
 	<packages>
 		<package name="Smoke"/>
 	</packages>
- </test>  -->
+</test> 
+ 
+<test thread-count="1" name="Test3">
+	<packages>
+		<package name="admin.login"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test4">
+	<packages>
+		<package name="admin.Additional_Testcases"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test5">
+	<packages>
+		<package name="admin.delete.submission"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test6">
+	<packages>
+		<package name="admin.groups"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test7">
+	<packages>
+		<package name="admin.organization"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test8">
+	<packages>
+		<package name="admin.roles"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test9">
+	<packages>
+		<package name="admin.search.and.sort"/>
+	</packages>
+</test> 
+
+<test thread-count="1" name="Test10">
+	<packages>
+		<package name="admin.user"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test11">
+	<packages>
+		<package name="admin.workflow"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test12">
+	<packages>
+		<package name="Project_manager.Filter"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test13">
+	<packages>
+		<package name="Project.manager.Login"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test14">
+	<packages>
+		<package name="subtitler.Linguist.Filter_Jobs"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test15">
+	<packages>
+		<package name="subtitler.Linguist.Jobss"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test16">
+	<packages>
+		<package name="subtitler.Linguist.login"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test17">
+	<packages>
+		<package name="subtitler.Linguist.Open_Job"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test18">
+	<packages>
+		<package name="subtitler.Linguist.Sort"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test19">
+	<packages>
+		<package name="subtitler.project_manager.Additional_Testcases"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test20">
+	<packages>
+		<package name="subtitler.project_manager.dashboard"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test21">
+	<packages>
+		<package name="subtitler.project_manager.Filter_PD_Submission"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test22">
+	<packages>
+		<package name="subtitler.project_manager.Open_Jobs"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test23">
+	<packages>
+		<package name="subtitler.project_manager.Project_Director"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test24">
+	<packages>
+		<package name="subtitler.project_manager.Sort_Jobs"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test25">
+	<packages>
+		<package name="subtitler.project_manager.submission"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test26">
+	<packages>
+		<package name="subtitler.project.manager.Sort_Submissions"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test27">
+	<packages>
+		<package name="subtitler.Reviewer"/>
+	</packages>
+</test>
+
+<test thread-count="1" name="Test28">
+	<packages>
+		<package name="subtitler.Transcription_functionality_testcases"/>
+	</packages>
+</test>
 
  
 </suite> <!-- Suite -->
